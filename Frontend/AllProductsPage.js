@@ -51,3 +51,4 @@ function AllProductsPage() {
 }
 
 export default AllProductsPage;
+
